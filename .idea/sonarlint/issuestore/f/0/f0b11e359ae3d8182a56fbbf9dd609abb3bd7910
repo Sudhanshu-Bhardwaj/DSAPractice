@@ -1,0 +1,16 @@
+
+—
+java:S6204"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ª™¨¹8èëºêı1
+d
+java:S3864"!Remove this use of "Stream.peek".(àç‚‹8ìÇ¹êı1J$b6743ae2-19ac-434f-8f01-d5f1f9059f7c
+>
+java:S3864"!Remove this use of "Stream.peek".(ÛóíÜ8íëºêı1
+>
+java:S3864"!Remove this use of "Stream.peek".(¯Ò£8ïëºêı1
+>
+java:S3864"!Remove this use of "Stream.peek".(ãÖó 8ñëºêı1
+m	java:S106"+Replace this use of System.out by a logger.(ãÖó 8ƒÈ¹êı1J$2d0c1fde-0be0-4a8f-b35e-00a5f4ae2567
+m	java:S106"+Replace this use of System.out by a logger.(¯Ò£8†È¹êı1J$33bd8dd1-92f7-4f51-a9e9-4b9e4fa5ec84
+m	java:S106"+Replace this use of System.out by a logger.(ÛóíÜ8‰È¹êı1J$72ae3681-9ce6-4bbf-af57-a1a9495f9f63
+m	java:S106"+Replace this use of System.out by a logger.(àç‚‹8È¹êı1J$44ca4828-6e53-466b-9aed-65a5b4d7311c
+m	java:S106""+Replace this use of System.out by a logger.(ş¿¯Â8‘È¹êı1J$81b3dc1b-c2ea-4658-b201-51d2bfa46dce

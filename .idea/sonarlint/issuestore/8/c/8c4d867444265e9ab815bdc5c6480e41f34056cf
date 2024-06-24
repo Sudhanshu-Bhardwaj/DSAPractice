@@ -1,0 +1,12 @@
+
+J
+java:S1604"(Make this anonymous inner class a lambda(ÊøŠüøÿÿÿÿ8‚Íò³Ú1
+L	java:S106	"+Replace this use of System.out by a logger.(¸³ïÄøÿÿÿÿ8Ãáñ³Ú1
+L	java:S106"+Replace this use of System.out by a logger.(­×şÿÿÿÿ8Åáñ³Ú1
+G	java:S106"+Replace this use of System.out by a logger.(˜©â‘8Æáñ³Ú1
+G	java:S106"+Replace this use of System.out by a logger.(˜çíÿ8Èáñ³Ú1
+G	java:S106"+Replace this use of System.out by a logger.(˜©â‘8ßáñ³Ú1
+L	java:S106"+Replace this use of System.out by a logger.(«êñÍúÿÿÿÿ8ááñ³Ú1
+b
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(„Ôù«ùÿÿÿÿ8Ó«ò³Ú1
+L	java:S106"+Replace this use of System.out by a logger.(„Ôù«ùÿÿÿÿ8ÿáñ³Ú1

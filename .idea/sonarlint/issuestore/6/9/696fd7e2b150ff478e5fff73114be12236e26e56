@@ -1,0 +1,13 @@
+
+E
+java:S1604"(Make this anonymous inner class a lambda(ôÀ•å8´÷³Ú1
+G	java:S106"+Replace this use of System.out by a logger.(‚¨Ö§8âØö³Ú1
+s
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ÆÕ‚úÿÿÿÿ8èØö³Ú1
+L	java:S106"+Replace this use of System.out by a logger.(ÆÕ‚úÿÿÿÿ8êØö³Ú1
+n
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(©¾–¿8ìØö³Ú1
+G	java:S106"+Replace this use of System.out by a logger.(©¾–¿8íØö³Ú1
+s
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(®üÒ±ûÿÿÿÿ8ùØö³Ú1
+L	java:S106"+Replace this use of System.out by a logger.(®üÒ±ûÿÿÿÿ8úØö³Ú1

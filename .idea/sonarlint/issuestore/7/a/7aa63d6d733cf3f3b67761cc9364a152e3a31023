@@ -1,0 +1,13 @@
+
+r	java:S106"+Replace this use of System.out by a logger.(úÂ•×ùÿÿÿÿ8§ÍØ¯‚2J$a29cd78d-a160-4277-b8fc-927fae10a9b2
+r	java:S106
+"+Replace this use of System.out by a logger.(êÙğŸûÿÿÿÿ8¾…Ü¯‚2J$66f587a3-07ca-4164-bdce-eaf274a21a0a
+m	java:S106"+Replace this use of System.out by a logger.(ªíÚ8ˆÊÜ¯‚2J$cda05915-af4f-4903-b6f5-7f9469b3b771
+r	java:S106"+Replace this use of System.out by a logger.(›­¶ûÿÿÿÿ8ŠÊÜ¯‚2J$ac036b77-69b4-4ac2-8e07-c84f24a1668e
+r	java:S106"+Replace this use of System.out by a logger.(ìÀ¾Œúÿÿÿÿ8‹ÊÜ¯‚2J$fa264de8-d6c0-492a-8ef5-eed5ef401440
+m	java:S106"+Replace this use of System.out by a logger.(›Şó±8Ÿ©İ¯‚2J$2209e5bc-9d41-402e-a5cf-f50e1556c690
+r	java:S106"+Replace this use of System.out by a logger.(ôéäùşÿÿÿÿ8¶¸Ş¯‚2J$b74b3627-0f8d-4a0e-adff-0ff01d2995f1
+m	java:S106"+Replace this use of System.out by a logger.(Ğ—µú8·¸Ş¯‚2J$0ecce1ff-387b-4ab1-9c02-4d4f88cb6a3a
+m	java:S106"+Replace this use of System.out by a logger.(ÔğÒ8¸¸Ş¯‚2J$8ffe6346-a2e9-48bb-863a-c900ea9a4c44
+“
+java:S1206"PThis class overrides "hashCode()" and should therefore also override "equals()".(ğÜşŠ8½ÍØ¯‚2J$d7046dbd-a42f-46e5-9be7-34031c8a93d2

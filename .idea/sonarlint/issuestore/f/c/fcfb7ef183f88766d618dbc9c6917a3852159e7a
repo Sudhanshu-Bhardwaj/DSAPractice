@@ -1,0 +1,11 @@
+
+w
+java:S3740	"/Provide the parametrized type for this generic.(ù¦ÏÞþÿÿÿÿ8Å³Ëåü1J$8c5fcd9a-10bb-4de1-ba50-68c21705ef59
+w
+java:S3740	"/Provide the parametrized type for this generic.(ù¦ÏÞþÿÿÿÿ8Æ³Ëåü1J$cbef1ce2-f27b-4579-a751-086718d47d05
+~	java:S125"<This block of commented-out lines of code should be removed.(öØþ8Ô³Ëåü1J$8809cba3-365c-4739-89f9-548d6a2b5940
+ƒ
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(º²ëù8å§Ìåü1J$b2eb0aef-2412-40d6-8e48-f39d78636cfb
+m	java:S106"+Replace this use of System.out by a logger.(º²ëù8½€Ìåü1J$290f0678-d5fa-4bdd-bede-b8244b8b6711
+u
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8¿€Ìåü1J$60c5ed15-f752-4a4b-b094-7559f5858511

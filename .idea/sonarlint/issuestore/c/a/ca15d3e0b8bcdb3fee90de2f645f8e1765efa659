@@ -1,0 +1,16 @@
+
+t
+java:S1192"RDefine a constant instead of duplicating this literal "
+Full Name is: %s" 4 times.(ş™Ùÿÿÿÿÿ8½¤ñÚ1
+s
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ş™Ùÿÿÿÿÿ8è³òÚ1
+L	java:S106"+Replace this use of System.out by a logger.(ş™Ùÿÿÿÿÿ8Ğ¤ñÚ1
+s
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(£ä…üúÿÿÿÿ8ì³òÚ1
+L	java:S106"+Replace this use of System.out by a logger.(£ä…üúÿÿÿÿ8Ñ¤ñÚ1
+n
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(êßşî8ï³òÚ1
+G	java:S106"+Replace this use of System.out by a logger.(êßşî8Ó¤ñÚ1
+n
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ØÊ¡8ó³òÚ1
+G	java:S106"+Replace this use of System.out by a logger.(ØÊ¡8Õ¤ñÚ1

@@ -1,0 +1,10 @@
+
+X
+java:S1854";Remove this useless assignment to local variable "newSum2".(‘Ë¸¯8ßÊÜ×Ú1
+L	java:S106"+Replace this use of System.out by a logger.(¹¦…‡úÿÿÿÿ8âÊÜ×Ú1
+b
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(ëƒ«Òùÿÿÿÿ8¡œŞ×Ú1
+L	java:S106"+Replace this use of System.out by a logger.(ëƒ«Òùÿÿÿÿ8äÊÜ×Ú1
+n
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(©¾–¿8æÊÜ×Ú1
+G	java:S106"+Replace this use of System.out by a logger.(©¾–¿8æÊÜ×Ú1

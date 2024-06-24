@@ -1,0 +1,12 @@
+
+•
+java:S2293
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(¡Î ÙJ$0e84ed89-db53-4cb0-97fe-b747e433e7cb
+…
+java:S4143"DVerify this is the key that was intended; it was already set before.(û­´ŠûÿÿÿÿJ$6c4cf1ef-000f-4ed9-82f3-0bec7e677bd0
+€
+java:S4143"DVerify this is the key that was intended; it was already set before.(ÕåóæJ$161d6eff-5111-45d7-bb8c-42cec50dcbb3
+|	java:S125"<This block of commented-out lines of code should be removed.(Öðã¬ûÿÿÿÿJ$3d1d0c43-059b-484a-8632-537b1c118ad4
+e	java:S106"+Replace this use of System.out by a logger.(ìèÞzJ$2079afd5-5e40-4d22-87fb-eee56a459df1
+o
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿJ$967e3daa-ae7d-4c2a-962b-1580184b0bec
