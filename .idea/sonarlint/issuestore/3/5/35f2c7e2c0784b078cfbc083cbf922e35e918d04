@@ -1,6 +1,6 @@
 
 î
-java:S2293	"YReplace the type specification in this constructor call with the diamond operator ("<>").(‹Ó‡@J$d25d445d-1775-4469-b159-342e30768e97
-f	java:S106"+Replace this use of System.out by a logger.(Á∞≥¢J$99516132-7d5e-485d-9b00-d7413a586d11
+java:S2293	"YReplace the type specification in this constructor call with the diamond operator ("<>").(‹Ó‡@J$ffba7ffd-d834-4364-a387-68052839a18a
+f	java:S106"+Replace this use of System.out by a logger.(Á∞≥¢J$1d7d74cb-ebee-40cd-b066-0dbe2eaeea59
 i
-java:S1128".Remove this unused import 'java.util.HashSet'.( ÇÍXJ$03ef4eda-697b-4f5c-87ea-d6aa1b036c98
+java:S1128".Remove this unused import 'java.util.HashSet'.( ÇÍXJ$606290c9-c841-4596-94b6-779f675a8c01

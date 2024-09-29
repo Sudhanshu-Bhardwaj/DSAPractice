@@ -1,0 +1,12 @@
+
+m	java:S106#"+Replace this use of System.out by a logger.(º¼É°8”ý¯¸›2J$c8b9beca-1737-466f-a8ff-24c063dadf97
+ƒ	java:S125&"<This block of commented-out lines of code should be removed.(€ƒ’Áùÿÿÿÿ8™ý¯¸›2J$c6e64efe-431a-4a60-9c0a-89d12582ffa4
+~	java:S125A"<This block of commented-out lines of code should be removed.(‘Üã«8™ý¯¸›2J$cfa5aa1f-b9ae-4fc4-95c5-c20139b3d2a5
+u
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8Æ¡€·›2J$296d019d-702f-424e-af7d-63b59192c3f6
+t
+java:S1128"1Remove this unused import 'java.util.Comparator'.(î¹ó¹8Æ¡€·›2J$d22606fc-ea06-4ceb-92a8-2536233116be
+s
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8Ç¡€·›2J$6e101245-3e36-4f68-8d79-68ef41135771
+€
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8Ç¡€·›2J$fbccc53c-7b38-4425-8bcc-1929f10d31d2

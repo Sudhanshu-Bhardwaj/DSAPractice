@@ -1,8 +1,6 @@
 package com.practice.core;
 
-import org.w3c.dom.ls.LSOutput;
-
-public class Hi {
+public class Hi1{
     public static void main(String[] args) {
         System.out.println("Hi Duniya");
     }

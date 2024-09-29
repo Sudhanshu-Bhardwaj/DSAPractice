@@ -1,0 +1,11 @@
+
+
+java:S1488"eImmediately return this expression instead of assigning it to the temporary variable "thirdSmallest".(ÁãÊ'8ëÉü—œ2
+’
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ÁãÊ'8Ã‘û—œ2J$4ff29675-4553-4054-b929-81142c18dd61
+~	java:S125
+"<This block of commented-out lines of code should be removed.(ù±ñÎ8»ßú—œ2J$83de4ea5-2e58-4167-89d5-7f16f7e3a561
+~	java:S125"<This block of commented-out lines of code should be removed.(¯Ì©é8»ßú—œ2J$9b9d58b1-0623-4ae0-b688-553ea3b91bfb
+r	java:S106"+Replace this use of System.out by a logger.(œÃÖúÿÿÿÿ8Ãßú—œ2J$5367ed0c-9554-47a1-875b-aeea35e716c7
+z
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8úßú—œ2J$d98c0c9d-1f9d-4731-bbbc-63193eb9828e

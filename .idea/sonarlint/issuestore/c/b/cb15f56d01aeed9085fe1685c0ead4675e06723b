@@ -1,10 +1,10 @@
 
-l	java:S106"+Replace this use of System.out by a logger.(„êŒM8ºÉÄ¯‚2J$32aac3c3-8168-41dd-9ec1-b85753e65416
-r	java:S106"+Replace this use of System.out by a logger.(œæ‡úÿÿÿÿ8ú¢Å¯‚2J$0724d4bf-7bab-446a-9b0c-9b63bf7a21f1
-m	java:S106"+Replace this use of System.out by a logger.(×ÙëÃ8û¢Å¯‚2J$4a849061-1437-4935-9f41-4d32b8401cf0
-r	java:S106"+Replace this use of System.out by a logger.(ÎÎò¨ÿÿÿÿÿ8®·Å¯‚2J$d2f5f235-5208-4a9e-911e-072accf92ae5
-l	java:S106"+Replace this use of System.out by a logger.(‰ƒ¯O8¯·Å¯‚2J$06e3b536-7121-4e77-b5ea-860833ed7f16
-r	java:S106"+Replace this use of System.out by a logger.(ŠÀ—úÿÿÿÿ8’ÌÆ¯‚2J$8d953752-3773-460b-ad2a-b7c9dd35346b
-r	java:S106"+Replace this use of System.out by a logger.(ËÄœ±üÿÿÿÿ8´‘Ç¯‚2J$90abf5b2-b4fa-4e50-a579-7c7c32e9bb7a
-m	java:S106"+Replace this use of System.out by a logger.(Ë†ÓÓ8¶‘Ç¯‚2J$17610001-bd79-4f18-a7a3-6e87fc16330a
-m	java:S106"+Replace this use of System.out by a logger.(áô‡­8·‘Ç¯‚2J$a08ea7d3-9800-4279-b00b-32c4b6786389
+l	java:S106"+Replace this use of System.out by a logger.(„êŒM8ºÉÄ¯‚2J$0db16a5e-63b0-4eee-9a32-df5ecf58657d
+r	java:S106"+Replace this use of System.out by a logger.(œæ‡úÿÿÿÿ8ú¢Å¯‚2J$922ed831-b511-4248-aff3-08c9e4e610f3
+m	java:S106"+Replace this use of System.out by a logger.(×ÙëÃ8û¢Å¯‚2J$7ad8b4ca-9694-4f9c-a56a-afe49a7bfed8
+r	java:S106"+Replace this use of System.out by a logger.(ÎÎò¨ÿÿÿÿÿ8®·Å¯‚2J$b4dc8e71-c925-45fb-908b-4cc073ba6572
+l	java:S106"+Replace this use of System.out by a logger.(‰ƒ¯O8¯·Å¯‚2J$e672d7de-e7d1-44c7-99a0-57af79bdd8ad
+r	java:S106"+Replace this use of System.out by a logger.(ŠÀ—úÿÿÿÿ8’ÌÆ¯‚2J$4acbb0bb-5ecc-4165-931b-a240549b78ce
+r	java:S106"+Replace this use of System.out by a logger.(ËÄœ±üÿÿÿÿ8´‘Ç¯‚2J$0c9f90ad-9ad5-4ec9-a7ca-e6a1575a00d1
+m	java:S106"+Replace this use of System.out by a logger.(Ë†ÓÓ8¶‘Ç¯‚2J$f2ca4c9c-a0ec-4f22-b493-fd2f1db54d36
+m	java:S106"+Replace this use of System.out by a logger.(áô‡­8·‘Ç¯‚2J$abed5402-d062-4add-be00-32b5f545f8fd

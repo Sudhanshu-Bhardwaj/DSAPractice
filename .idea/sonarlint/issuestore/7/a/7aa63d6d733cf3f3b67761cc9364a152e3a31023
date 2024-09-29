@@ -1,13 +1,13 @@
 
-r	java:S106"+Replace this use of System.out by a logger.(úÂ•×ùÿÿÿÿ8§ÍØ¯‚2J$a29cd78d-a160-4277-b8fc-927fae10a9b2
+r	java:S106"+Replace this use of System.out by a logger.(úÂ•×ùÿÿÿÿ8§ÍØ¯‚2J$78cf3ecd-90aa-4128-bbcb-8ce117ef509e
 r	java:S106
-"+Replace this use of System.out by a logger.(êÙğŸûÿÿÿÿ8¾…Ü¯‚2J$66f587a3-07ca-4164-bdce-eaf274a21a0a
-m	java:S106"+Replace this use of System.out by a logger.(ªíÚ8ˆÊÜ¯‚2J$cda05915-af4f-4903-b6f5-7f9469b3b771
-r	java:S106"+Replace this use of System.out by a logger.(›­¶ûÿÿÿÿ8ŠÊÜ¯‚2J$ac036b77-69b4-4ac2-8e07-c84f24a1668e
-r	java:S106"+Replace this use of System.out by a logger.(ìÀ¾Œúÿÿÿÿ8‹ÊÜ¯‚2J$fa264de8-d6c0-492a-8ef5-eed5ef401440
-m	java:S106"+Replace this use of System.out by a logger.(›Şó±8Ÿ©İ¯‚2J$2209e5bc-9d41-402e-a5cf-f50e1556c690
-r	java:S106"+Replace this use of System.out by a logger.(ôéäùşÿÿÿÿ8¶¸Ş¯‚2J$b74b3627-0f8d-4a0e-adff-0ff01d2995f1
-m	java:S106"+Replace this use of System.out by a logger.(Ğ—µú8·¸Ş¯‚2J$0ecce1ff-387b-4ab1-9c02-4d4f88cb6a3a
-m	java:S106"+Replace this use of System.out by a logger.(ÔğÒ8¸¸Ş¯‚2J$8ffe6346-a2e9-48bb-863a-c900ea9a4c44
+"+Replace this use of System.out by a logger.(êÙğŸûÿÿÿÿ8¾…Ü¯‚2J$201a75be-c644-4998-933b-9d94c2141c82
+m	java:S106"+Replace this use of System.out by a logger.(ªíÚ8ˆÊÜ¯‚2J$f14c8d4f-c3b8-4437-9e9f-8f230dfef7ac
+r	java:S106"+Replace this use of System.out by a logger.(›­¶ûÿÿÿÿ8ŠÊÜ¯‚2J$f2127c60-f77c-424e-873c-cc573316c9ff
+r	java:S106"+Replace this use of System.out by a logger.(ìÀ¾Œúÿÿÿÿ8‹ÊÜ¯‚2J$7bb8b8f3-ed54-498a-b383-0fc667f90d11
+m	java:S106"+Replace this use of System.out by a logger.(›Şó±8Ÿ©İ¯‚2J$3c0c694f-50d8-4b86-b698-ee92383c70ab
+r	java:S106"+Replace this use of System.out by a logger.(ôéäùşÿÿÿÿ8¶¸Ş¯‚2J$5d29fe05-7d61-46ed-adc7-9d4641faf896
+m	java:S106"+Replace this use of System.out by a logger.(Ğ—µú8·¸Ş¯‚2J$5f14780e-d85e-4c03-bd12-5ec24968e185
+m	java:S106"+Replace this use of System.out by a logger.(ÔğÒ8¸¸Ş¯‚2J$fc9a4025-af42-4a1c-bd8a-9ea6715eecce
 “
-java:S1206"PThis class overrides "hashCode()" and should therefore also override "equals()".(ğÜşŠ8½ÍØ¯‚2J$d7046dbd-a42f-46e5-9be7-34031c8a93d2
+java:S1206"PThis class overrides "hashCode()" and should therefore also override "equals()".(ğÜşŠ8½ÍØ¯‚2J$9aebf234-1a5a-4e13-8f2c-ed9306fe3e7c
